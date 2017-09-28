@@ -15,19 +15,13 @@ namespace customerfeedback_web.Controllers
             return View();
         }
 
-        public IActionResult About()
+        [HttpPost]
+        public IActionResult Index(string feedback, string email)
         {
-            ViewData["Message"] = "Your application description page.";
+            // Store in Cosmos DB
 
-            return View();
-        }
-
-        public IActionResult Contact()
-        {
-            ViewData["Message"] = "Your contact page.";
-
-            return View();
-        }
+            // Send message to Queue
+        }  
 
         public IActionResult Error()
         {
