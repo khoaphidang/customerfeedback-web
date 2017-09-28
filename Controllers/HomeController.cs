@@ -66,7 +66,7 @@ namespace customerfeedback_web.Controllers
             );
 
              var queueClient = storageAccount.CreateCloudQueueClient();
-             var messageQueue = queueClient.GetQueueReference("messageQueue");
+             var messageQueue = queueClient.GetQueueReference("feedbackqueue");
              await messageQueue.CreateIfNotExistsAsync();
 
              var feedbackDetails = new {
