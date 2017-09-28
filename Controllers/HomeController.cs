@@ -21,6 +21,9 @@ namespace customerfeedback_web.Controllers
             // Store in Cosmos DB
 
             // Send message to Queue
+
+            // Go back to index
+            return RedirectToAction("Index"); 
         }  
 
         public IActionResult Error()
