@@ -1,0 +1,10 @@
+/Users/sabbour/Documents/Git/solutiontour/customerfeedback-web/bin/Debug/netcoreapp2.0/customerfeedback-web.deps.json
+/Users/sabbour/Documents/Git/solutiontour/customerfeedback-web/bin/Debug/netcoreapp2.0/customerfeedback-web.runtimeconfig.json
+/Users/sabbour/Documents/Git/solutiontour/customerfeedback-web/bin/Debug/netcoreapp2.0/customerfeedback-web.runtimeconfig.dev.json
+/Users/sabbour/Documents/Git/solutiontour/customerfeedback-web/bin/Debug/netcoreapp2.0/customerfeedback-web.dll
+/Users/sabbour/Documents/Git/solutiontour/customerfeedback-web/bin/Debug/netcoreapp2.0/customerfeedback-web.pdb
+/Users/sabbour/Documents/Git/solutiontour/customerfeedback-web/obj/Debug/netcoreapp2.0/customerfeedback-web.csproj.CoreCompileInputs.cache
+/Users/sabbour/Documents/Git/solutiontour/customerfeedback-web/obj/Debug/netcoreapp2.0/customerfeedback-web.AssemblyInfoInputs.cache
+/Users/sabbour/Documents/Git/solutiontour/customerfeedback-web/obj/Debug/netcoreapp2.0/customerfeedback-web.AssemblyInfo.cs
+/Users/sabbour/Documents/Git/solutiontour/customerfeedback-web/obj/Debug/netcoreapp2.0/customerfeedback-web.dll
+/Users/sabbour/Documents/Git/solutiontour/customerfeedback-web/obj/Debug/netcoreapp2.0/customerfeedback-web.pdb
